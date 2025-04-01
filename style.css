@@ -1,0 +1,302 @@
+/* menu poczatkowe*/
+body {
+	background-color: black;
+	font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;	
+	
+}
+
+#entry{
+	width: 200px;
+	height:200px;
+	margin-top:200px;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+.wejscie{
+	border:none;
+}
+
+#menuentry{
+	height:50px;
+	width:300px;
+	background-image: url(grafika/logowejsciemirror.gif);
+	margin-top:20px;
+	margin-right:auto;
+	margin-left:auto;
+	color:white;
+	font-size:medium;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+a.entry {
+text-decoration:none;
+padding:0px 2px 0px 0px;
+}
+
+a:hover.entry {
+color:green;
+}/*koniec menu poczatkowe*/
+
+/* strony witryny */
+
+#calosc{
+	width:730px;
+	padding:0;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+#topcalosc{
+	width:730px;
+	height:145px;
+	padding:0;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+#top{
+	width:730px;
+	height:120px;
+	background-image:url(grafika/bgtop.gif);
+	background-repeat:no-repeat;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+#topse{
+	width:730px;
+	height:120px;
+	background-image:url(grafika/bgtopse.gif);
+	background-repeat:no-repeat;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+#topexd{
+	width:730px;
+	height:120px;
+	background-image:url(grafika/bgtopexd.gif);
+	background-repeat:no-repeat;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+img.topimg{
+margin-top:13px;
+margin-left:10px;
+border:none;	
+}
+
+#topmirror{
+	width:100px;
+	height:25px;
+	float:left;
+	margin-left:30px;
+	padding:0px;
+	background-image:url(grafika/logoheadmirror.gif);
+	background-repeat:no-repeat;
+}
+
+#menu{
+	width:550px;
+	height:20px;
+	float:right;
+	background-color:black;
+}
+
+ #navlist ul, #navlist li{
+padding:0px 0px 0px 0px;
+display:inline;
+width:auto;
+background-color:black;
+float:right;
+}
+
+a{
+padding:0px 0px 0px 15px;
+font-weight:bold;
+font-size:15px;
+color:white;
+text-decoration:none;
+}
+
+a.download{
+padding:0px 0px 0px 15px;
+font-weight:normal;
+font-size:small;
+font-weight:bold;
+color:white;
+text-decoration:none;
+}
+
+a.download2{
+padding:0px 0px 0px 20px;
+font-weight:normal;
+font-size:x-small;
+font-weight:bold;
+color:white;
+text-decoration:none;
+}
+
+a.mail{
+padding:0px 0px 0px 20px;
+font-weight:normal;
+font-size:xx-small;
+font-weight:normal;
+color:white;
+text-decoration:none;
+}
+
+a.mail:hover{
+	color:red;
+	text-decoration:none;
+}
+
+#menu a:hover{
+	color:green;
+	text-decoration:none;
+}
+
+	a:hover{
+	color:green;
+	text-decoration:none;
+}
+
+a.download:visited{
+	color:#008041;
+}
+
+#tresc{
+clear:both;
+float:none;
+background-color:black;
+width:730px;
+margin-left:auto;
+margin-right:auto;
+margin-top:10px;
+}
+
+p.tresc{
+color:white;
+font-size:small;
+text-align:justify;
+padding:5px 5px 5px 5px;
+margin:0;
+}
+
+p.tresc2{
+color:#eeeeee;
+font-size:x-small;
+text-align:justify;
+padding:5px 5px 5px 5px;
+margin:0;
+}
+
+p.tresc3{
+color:#eeeeee;
+font-size:x-small;
+text-align:justify;
+padding:0;
+margin:0;
+}
+
+div#lewa{
+clear:left;
+float:left;
+width:365px;
+height:380px;
+background-color:black;
+}
+
+div#lewa2{
+clear:left;
+float:left;
+width:300px;
+height:250px;
+margin-top:70px;
+background-color:#191919;
+overflow: auto;
+overflow-x:hidden;
+
+}
+
+div#prawa{
+clear:right;
+float:right;
+width:365px;
+height:380px;
+background-color:black;
+}
+
+div#prawa2{
+clear:right;
+float:right;
+width:270px;
+height:200px;
+margin-top:75px;
+margin-right:50px;
+background-color:#191919;
+}
+
+div#prawa3{
+clear:right;
+float:right;
+width:270px;
+height:226px;
+margin-top:75px;
+margin-right:50px;
+background-color:#191919;
+}
+
+#dolmirror{
+	clear:left;
+	float:left;
+	width:300px;
+	height:50px;
+	margin-top:10px;
+	background-image: url(grafika/tekstdolmirror.gif);
+	background-repeat: repeat-x;
+}
+
+#dolmirror2{
+	clear:right;
+	float:right;
+	width:270px;
+	height:50px;
+	margin-top:10px;
+	margin-right:50px;
+	background-image: url(grafika/tekstdolmirror.gif);
+	background-repeat: repeat-x;
+}
+
+#dolmirror3{
+	clear:right;
+	float:right;
+	width:270px;
+	height:50px;
+	margin-top:10px;
+	margin-right:50px;
+	background-image: url(grafika/playermirror.gif);
+}
+
+#stopka{
+clear:both;
+width:730px;
+height:67px;
+margin-left:auto;
+margin-right:auto;
+background-color:black;
+}
+
+#stopka2{
+width:180px;
+height:20px;
+padding:0;
+margin:0;
+float:left;
+color:white;
+font-size:x-small;
+}
+
