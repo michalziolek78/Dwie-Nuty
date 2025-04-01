@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" 
+xmlns = "http://xspf.org/ns/0/">
+    <trackList>
+
+		<track>
+            <location>mp3/exdmp3/Extreme_Discotheque-Kief_Sensations.mp3</location>
+            <title>Kief Sensations</title>
+            <creator>Extreme Discotheque</creator>
+        </track>
+				
+					<track>
+            <location>mp3/exdmp3/Extreme_Discotheque-Popped_Valve.mp3</location>
+            <title>Popped Valve</title>
+            <creator>Extreme Discotheque</creator>
+        </track>
+				
+        <!-- <track>
+            <location>mp3/exdmp3/ListenToYourSoul.mp3</location>
+            <title>Listen to your soul</title>
+            <creator>Extreme Discotheque</creator>
+        </track>
+		
+		 <track>
+            <location>mp3/exdmp3/Mynameismelisa.mp3</location>
+            <title>My name is melisa</title>
+            <creator>Extreme Discotheque</creator>
+        </track>
+		
+		 <track>
+            <location>mp3/exdmp3/BodiesMoves.mp3</location>
+            <title>Bodies Moves</title>
+            <creator>Extreme Discotheque</creator>
+        </track>
+		
+		<track>
+            <location>mp3/exdmp3/DeepInTheCongo.mp3</location>
+            <title>Deep in the congo</title>
+            <creator>Extreme Discotheque</creator>
+        </track>
+		
+		
+		
+		<track>
+            <location>mp3/exdmp3/NewOneBeta.mp3</location>
+            <title>New one beta</title>
+            <creator>Extreme Discotheque</creator>
+        </track>
+		
+		<track>
+            <location>mp3/exdmp3/Occult.mp3</location>
+            <title>Occult</title>
+            <creator>Extreme Discotheque</creator>
+        </track>
+		
+	
+		
+		<track>
+            <location>mp3/exdmp3/PsychedeliclyDancingPeople.mp3</location>
+            <title>Psychodelicly danceing people</title>
+            <creator>Extreme Discotheque</creator>
+        </track> -->
+		
+	</trackList>
+</playlist>

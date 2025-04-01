@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<player showDisplay="yes" showPlaylist="yes" autoStart="no">
+<song path="mp3/ListenToYourSoul.mp3" title="Extreme Discotheque - Listen to Your Soul" />
+<song path="mp3/Mynameismelisa.mp3" title="Extreme Discotheque - Listen to Your Soul" />
+</player>
